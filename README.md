@@ -36,11 +36,7 @@ Inside each note:
 ## 📝 Commit Convention
 ```
 docs(boj####): add wrong-approach notes
-docs: refine explanation for missing state
-docs(boj####): summarize correct intuition
 ```
-
-Short, clear, problem-scoped.
 <br/>
 
 ## 🚀 Related
